@@ -1,6 +1,6 @@
 # TableViews-With-Enums
 
-This project example shows an easy and dynamic way to fill a tableview with enums
+This example project shows an easy and dynamic way to fill a tableview with enums
 
 
 
