@@ -18,6 +18,7 @@ This example project shows an easy and dynamic way to fill a tableview with enum
   
   3.- Everything is clearly encapsulated
   
+  
 * Disadvantage 
 
   1.- When interacting with custom cells, it becomes a little bit complicated (blocks needs to be added to comunicate whatever to the main view)
