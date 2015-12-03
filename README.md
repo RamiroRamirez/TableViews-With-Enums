@@ -13,7 +13,9 @@ This example project shows an easy and dynamic way to fill a tableview with enum
 * Advantages
 
   1.- Easy implementation
+  
   2.- Easy maintenance
+  
   3.- Everything is clearly encapsulated
   
 * Disadvantage 
