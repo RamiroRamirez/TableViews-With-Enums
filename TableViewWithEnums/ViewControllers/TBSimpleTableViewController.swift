@@ -25,7 +25,7 @@ enum TBMenuRow: Int {
     // Static method to return an array with all the options for the menu (this will be used as datasource)
     
     static func allValues() -> [TBMenuRow] {
-        return [.Home, .Profile, .Photos, .Videos, .Settings, .Imprint]
+		return [.Home, .Profile, .Photos, .Videos, .Settings, .Imprint]
     }
     
     // Method to get the title for each menuRow

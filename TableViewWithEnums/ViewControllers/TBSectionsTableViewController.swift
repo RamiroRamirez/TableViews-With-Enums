@@ -124,7 +124,6 @@ class TBSectionsTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("fdsafdasfda")
     }
 
 }
